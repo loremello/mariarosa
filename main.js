@@ -11,3 +11,7 @@ let areaTrapezio=function(num1,num2,num3) {
     return[num1+num2]*num3/2;
 }
 console.log(areaTrapezio(3,4,6))
+
+let media de valores= prompt('media de valores?')
+document.write(meia de valores)
+parseInt(prompt('media de valores?'))

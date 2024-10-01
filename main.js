@@ -33,6 +33,9 @@ for (let i = 0; i < nomes.length; i++) {
 let idade=parseInt(prompt('Qual é a sua idade?'))
 if (idade>17) {
     console.log('pode dirigir')
+    document.write(pode dirigir)
 } else {
     console.log('ilegal dirigir')
+    document.write(ilegal dirigir)
+
 }

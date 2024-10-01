@@ -25,7 +25,7 @@ while(i<nomes.length) {
 }
 for (let i = 0; i < nomes.length; i++) {
     const element = nomes[i];
-    console.long(i);
+    console.log(i);
     console.log(nomes[i]);
     
 }
